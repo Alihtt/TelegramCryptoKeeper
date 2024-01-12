@@ -1,4 +1,4 @@
-from hydrogram import Client
+from pyrogram import Client
 import config
 import logging
 
